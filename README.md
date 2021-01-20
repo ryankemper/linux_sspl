@@ -55,3 +55,7 @@ While changing the license of our source code is a big deal in some ways, the va
 We will continue to develop our code in the open, engage with our community, and publish our releases for free under the GPL License as we have done for the last years. We remain committed to keeping all of our free features free — we are not making any changes to which features are free and which are available in a paid subscription.
 
 Our belief in the importance of a unified community has never been stronger. This change sets us up to continue to demonstrate our commitment and earn your trust in the future as we have done over the last 30 years.
+
+## Resources
+
+Parody of: https://www.elastic.co/blog/licensing-change
