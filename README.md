@@ -4,7 +4,7 @@ By Linus Torvalds
 
 ## Upcoming licensing changes to Linux
 
-We are moving our GPLv2-licensed source code in Linux to be dual licensed under Server Side Public License (SSPL) and the GPL License, giving users the choice of which license to apply. This license change ensures our community and customers have free and open access to use, modify, redistribute, and collaborate on the code. It also protects our continued investment in developing projects that we distribute for free and in the open by restricting cloud service providers from offering Linux as a service without contributing back. This will apply to all maintained branches of these two projects and will take place before our upcoming 5.13 release.
+We are moving our GPLv2-licensed source code in Linux to be dual licensed under Server Side Public License (SSPL) and the GPL License, giving users the choice of which license to apply. This license change ensures our community and customers have free and open access to use, modify, redistribute, and collaborate on the code. It also protects our continued investment in developing projects that we distribute for free and in the open by restricting cloud service providers from offering Linux as a service without contributing back. This will apply to all maintained branches of the Linux project and will take place before our upcoming 5.13 release.
 
 This change in source code licensing has no impact on the overwhelming majority of our user community who use our default distribution for free. It also has no impact on our cloud customers or self-managed software customers.
 
