@@ -18,7 +18,7 @@ I had no idea what I was signing up for, especially as a student “on the side,
 
 In 2005, I decided to do it again, and started to write a brand new project called Git. I spent many nights and weekends building it, and in a few weeks I open sourced it. I even quit my job and decided to dedicate my full attention to Linux and Git. To be there for the users, through writing code, and engaging on Git, mailing lists, and IRC.
 
-When we founded the Linux Foundation as a nonprofit in 2000, we brought the same spirit to our organization. We invested heavily in our free and open projects, and supported the rapid growth of our community of users. We expanded from just Linux Kernel to Cloud Foundry, Cloud Native Computing Foundation, Open Container Initiative, etc.
+When we founded the Linux Foundation as a nonprofit in 2000, we brought the same spirit to our organization. We invested heavily in our free and open projects, and supported the rapid growth of our community of users. We expanded from just the Linux Kernel to Cloud Foundry, Cloud Native Computing Foundation, Open Container Initiative, etc.
 
 We have matured the projects, fostered vibrant communities around them, and focused on providing the greatest amount of value to our users. Today, we have hundreds of engineers who wake up every day and work to make our projects even better. And we have hundreds of thousands of community members who engage with us and contribute to our shared success.
 
